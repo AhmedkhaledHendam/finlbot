@@ -1467,3 +1467,4 @@ def go_home(message):
         reply_markup=welcome()
     )
 bot.infinity_polling(skip_pending=True)
+
